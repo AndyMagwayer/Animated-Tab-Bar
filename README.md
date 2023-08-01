@@ -18,11 +18,12 @@ Some of the animations are from real apps. While others — are just nice design
 
 Would you use some of them for your apps?
 
-![Task Bar image
-](https://github.com/AndyMagwayer/Animated-Tab-Bar/blob/main/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.png)
+![gif](https://github.com/AndyMagwayer/Animated-Tab-Bar/blob/main/1_yTtJ9dHsouqXC4y3B3oO5g.gif)
 
 
 Looking to make your internet site greater dynamic and engaging? Learn how to create an animated tab bar the usage of HTML, CSS, and JavaScript. In this guide, we will stroll you thru the advantages of an animated tab bar, the HTML and CSS structure, and how to add animations and transitions with JavaScript. Plus, we are going to share high-quality practices to make sure your tab bar is effortless to navigate and responsive on all devices.
-![Image alt]([https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png](https://github.com/AndyMagwayer/Animated-Tab-Bar/blob/main/1_yTtJ9dHsouqXC4y3B3oO5g.gif)https://github.com/AndyMagwayer/Animated-Tab-Bar/blob/main/1_yTtJ9dHsouqXC4y3B3oO5g.gif)
+
+![Task Bar image
+](https://github.com/AndyMagwayer/Animated-Tab-Bar/blob/main/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.png)
 
 
